@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 3.5rem;
+}
+
+.result-container {
+  margin: 40px auto 0;
+  width: 50%;
+  border: double red  2px;
+}
+
+#Crush {
+  border
+  background-color: lightgrey;
+}
+
+.label-space {
+  margin-bottom: 5px;
+}
